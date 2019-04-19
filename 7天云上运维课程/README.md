@@ -55,7 +55,7 @@ as root:
 ```
 
 
-
+# DAY01
 ```
 @所有人
 亲爱的开发者：
@@ -80,6 +80,10 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0C
 今日课程提示：
 今日无视频讲解内容，如您在操作过程中遇到任何问题可以咨询群内华为云产品专家@雪梅
 ```
+
+
+
+# DAY02
 
 ```
 @所有人
