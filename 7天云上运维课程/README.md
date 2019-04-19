@@ -27,6 +27,36 @@ noNeed$@7dayPass2019!.
 
 
 ```
+You can now join any number of machines by running the following on each node
+as root:
+
+  kubeadm join 192.168.0.252:6443 --token vtijkq.pwd10w3lrrocn5qt --discovery-token-ca-cert-hash sha256:c0df17589a539b28e4ee7861bf728ccdc5c6191976d191edc7fbe702d4f111d5
+
+```
+
+
+```
+Your Kubernetes master has initialized successfully!
+
+To start using your cluster, you need to run the following as a regular user:
+
+  mkdir -p $HOME/.kube
+  sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
+  sudo chown $(id -u):$(id -g) $HOME/.kube/config
+
+You should now deploy a pod network to the cluster.
+Run "kubectl apply -f [podnetwork].yaml" with one of the options listed at:
+  https://kubernetes.io/docs/concepts/cluster-administration/addons/
+
+You can now join any number of machines by running the following on each node
+as root:
+
+  kubeadm join 192.168.0.252:6443 --token vtijkq.pwd10w3lrrocn5qt --discovery-token-ca-cert-hash sha256:c0df17589a539b28e4ee7861bf728ccdc5c6191976d191edc7fbe702d4f111d5
+```
+
+
+
+```
 @所有人
 亲爱的开发者：
 欢迎参加华为云【7天转型运维实战营】本期活动将在今天上午11点正式开放！
