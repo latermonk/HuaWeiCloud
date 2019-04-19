@@ -108,3 +108,10 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0C
 备注：请按要求上传打卡截图，完成打卡
 ```
 
+![m01](_image/m01.png)
+![m02](_image/m02.png)
+![m03](_image/m03.png)
+![m04](_image/m04.png)
+![m05](_image/m05.png)
+
+
