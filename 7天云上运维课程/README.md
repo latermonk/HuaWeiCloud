@@ -138,3 +138,5 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0C
 备注：请按要求上传打卡截图，完成打卡
 ```
 
+![DAY03_log](_image/DAY03_log.png)
+
