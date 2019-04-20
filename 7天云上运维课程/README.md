@@ -114,4 +114,27 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0C
 ![m04](_image/m04.png)
 ![m05](_image/m05.png)
 
+# DAY03
+
+```
+1元云资源购买链接】
+https://account.huaweicloud.com/usercenter/#/buyservice/grainCloud?promotionId=P1904161544331710WXVTKK0UHDDR3&promotionPlanId=PPP19041817144975807Y3YM210Y26R3&solutionCode=promotion.activity.cn-east-2.20190418-164857-741
+
+请务必！务必！务必！先领取满减券再进行操作，否则会引起扣费！
+请按照操作指导文档进行操作，由于您误操作引起的扣费我们无法补齐的，请知晓！
+请按照操作指导文档进行操作，镜像那里最好选Centos 7.4 64bit
+
+------------------------
+以下为您今日需要完成的任务列表：
+
+1、点击以下链接接收今日课程内容
+https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXP010+Self-paced/courseware/9a89a726d8b0444499433802751c0194/9b9826b1837042f9ba489bb3b9272714/
+
+备注：课程资料为您需要了解的理论知识，操作指导将引导协助您完成今天的打卡作业
+
+2、请点击以下链接完成打卡操作
+https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0CRsYgiTyK9uklgmFERg0Ng&code=2f4229&byUserId=ochvq0CRsYgiTyK9uklgmFERg0Ng
+
+备注：请按要求上传打卡截图，完成打卡
+```
 
