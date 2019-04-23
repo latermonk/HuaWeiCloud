@@ -188,4 +188,25 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0C
 
 ```
 
+# DAY06
+
+
+```
+
+@所有人
+通知：
+以下为您今日需要完成的任务列表：
+
+1、点击以下链接接收今日课程内容
+https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXP010+Self-paced/courseware/5ddf8d2a2a6a4fe0876ec7ff8bb2ee41/4cb8038c2b944864a9142724527fa024/
+
+备注：课程资料为您需要了解的理论知识，操作指导将引导协助您完成今天的打卡作业
+
+2、请点击以下链接完成打卡操作
+https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0CRsYgiTyK9uklgmFERg0Ng&code=2f4229&byUserId=ochvq0CRsYgiTyK9uklgmFERg0Ng
+
+备注：请按要求上传打卡截图，完成打卡
+
+
+```
 
