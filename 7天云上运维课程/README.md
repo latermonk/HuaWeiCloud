@@ -188,6 +188,9 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0C
 
 ```
 
+![DAY05_mobile01](_image/DAY05_mobile01.png)
+
+
 # DAY06
 
 
@@ -209,4 +212,6 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0C
 
 
 ```
+
+![DAY0601](_image/DAY0601.png)
 
