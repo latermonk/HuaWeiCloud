@@ -192,3 +192,29 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0C
 
 ![DAY0601](_image/DAY0601.png)
 
+# DAY07
+
+```
+@所有人
+通知：
+大家注意啦！
+完成全部7天打卡并完成转发活动即可抽取耳机哦！
+获取活动流程指导文档请在群内回复“转发流程”就会自动弹出哦~
+
+本次活动发放的是包月套餐，大家可以不用退订，活动结束后也可以使用和体验产品哒！后续我们会发放更多适用于企业和个人的打折套餐，需要的同学请多多关注！
+
+---------------------------
+
+以下为您今日需要完成的任务列表：
+
+1、点击以下链接接收今日课程内容
+https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXP010+Self-paced/courseware/ee5dea65f30f4b309502f3b4dedc00ea/f521efa6041442058f4f8eed4761a362/
+
+备注：课程资料为您需要了解的理论知识，操作指导将引导协助您完成今天的打卡作业
+
+2、请点击以下链接完成打卡操作
+https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0CRsYgiTyK9uklgmFERg0Ng&code=2f4229&byUserId=ochvq0CRsYgiTyK9uklgmFERg0Ng
+
+备注：今日打卡无截图要求，只需分享您的学习心得即可
+```
+
