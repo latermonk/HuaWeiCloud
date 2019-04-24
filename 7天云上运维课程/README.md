@@ -218,3 +218,5 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2242009&openId=ochvq0C
 备注：今日打卡无截图要求，只需分享您的学习心得即可
 ```
 
+![DAY07](_image/DAY07.png)
+
