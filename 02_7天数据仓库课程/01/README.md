@@ -31,3 +31,17 @@ http://t.cn/EXV1fVv
 
 【资源删除】
 请在 2019年5月19日前 释放资源！如果未释放，产生的持续扣费、账户欠费冻结等问题，EI小助手将不再做任何补偿哦！http://t.cn/EXf6Byo
+
+
+
+
+```
+	
+postgres admin
+
+dbadmin
+
+passWorld@2019!
+
+```
+
