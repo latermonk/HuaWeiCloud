@@ -24,3 +24,8 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2129182&openId=ochvq0E
 
 ## 【资源删除】
 请在 2019年5月19日前 释放资源！如果未释放，产生的持续扣费、账户欠费冻结等问题，EI小助手将不再做任何补偿哦！ http://t.cn/EXf6Byo
+
+
+
+![DAY0301](DAY0301.png)
+
