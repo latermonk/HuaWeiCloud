@@ -14,7 +14,8 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2129182&openId=ochvq0E
 还没有关注课程的同学，现在都关注起来！完成打卡必须要上传截图。
 
 【活动流程FAQ】
-活动整体流程和细节问题都可阅读链接：http://t.cn/EXV3MB5，无解答请私聊小助手。
+活动整体流程和细节问题都可阅读链接：http://t.cn/EXV3MB5  
+  ，无解答请私聊小助手。
 
 【本节课程内容FAQ】
 本节课程常见问题汇总：http://t.cn/EXfL1lg     
