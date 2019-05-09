@@ -17,7 +17,8 @@ https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=2129182&openId=ochvq0E
 活动整体流程和细节问题都可阅读链接：http://t.cn/EXV3MB5，无解答请私聊小助手。
 
 【本节课程内容FAQ】
-本节课程常见问题汇总：http://t.cn/EXfL1lg，无解答再在群内向答疑专家提问，感谢配合！！
+本节课程常见问题汇总：http://t.cn/EXfL1lg     
+，无解答再在群内向答疑专家提问，感谢配合！！
 
 【今日答疑专家名单】
 微信昵称：曹鹏涛（用户群中可找到）
